@@ -8,5 +8,8 @@
   "license": "MIT",
   "scripts": {
     "website:build": "vuepress build website"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.1"
   }
 }
