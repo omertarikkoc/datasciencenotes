@@ -7,7 +7,8 @@
   "author": "Omer Tarik Koc <omertarikkoc@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "website:build": "vuepress build website"
+    "website:build": "vuepress build website",
+    "website:dev": "vuepress dev website"
   },
   "dependencies": {
     "vuepress": "^1.0.1"

@@ -18,5 +18,7 @@ Following books are suggested by [Dr. Rizk](/contributors/drrizk):
 - Book 2:
 
 ## Sections
-### [What is Data Science?](/guide/what-is-data-science)
-### [Python Basics?](/guide/python-basics)
+### [What is Data Science?](/sections/what-is-data-science)
+### [Python Basics](/sections/python-basics)
+### [Linear Regression](/sections/linear-regression)
+### [Logistic Regression](/sections/logistic-regression)
