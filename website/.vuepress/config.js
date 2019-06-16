@@ -2,9 +2,7 @@ module.exports = {
   title: "Data Science Notes",
   description: "Simple notes for Dr. Rizk's Data Science course",
   ga: "UA-81672337-2",
-  serviceWorker: {
-    updatePopup: true
-  },
+  serviceWorker: true,
   themeConfig: {
     repo: 'omertarik96/datasciencenotes',
     repoLabel: 'Contribute!',
