@@ -1,0 +1,12 @@
+{
+  "name": "datasciencenotes",
+  "version": "1.0.0",
+  "description": "Open-source data science notes for absolute beginners",
+  "main": "index.js",
+  "repository": "https://github.com/omertarik96/datasciencenotes.git",
+  "author": "Omer Tarik Koc <omertarikkoc@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "website:build": "vuepress build website"
+  }
+}
