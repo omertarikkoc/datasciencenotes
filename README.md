@@ -1,6 +1,8 @@
-# Project Title
+# Data Science Notes
 
-One Paragraph of project description goes here
+[![Netlify Status](https://api.netlify.com/api/v1/badges/59b17296-82cd-4b45-b7e1-ce29d8897c1f/deploy-status)](https://app.netlify.com/sites/datasciencenotes123/deploys)
+
+Open-source data science notes for absolute beginners.
 
 ## Getting Started
 

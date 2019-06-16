@@ -9,6 +9,9 @@
   "scripts": {
     "website:build": "vuepress build website"
   },
+  "dependencies": {
+    "vuepress": "^1.0.1"
+  },
   "devDependencies": {
     "vuepress": "^1.0.1"
   }
