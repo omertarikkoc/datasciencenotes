@@ -1,3 +1,7 @@
+---
+sidebar: false
+next: /sections/
+---
 # Guide
 
 ::: tip
@@ -17,8 +21,6 @@ Following books are suggested by [Dr. Rizk](/contributors/drrizk):
 - Book 1:
 - Book 2:
 
-## [Sections](/sections)
-### [What is Data Science?](/sections/what-is-data-science)
-### [Python Basics](/sections/python-basics)
-### [Linear Regression](/sections/linear-regression)
-### [Logistic Regression](/sections/logistic-regression)
+## What is next?
+
+Continue checking out [Sections](/sections) to see our magic :tada:

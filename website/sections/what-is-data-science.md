@@ -1,3 +1,8 @@
+---
+prev: false
+next: ./python-basics
+---
+
 # What is Data Science
 
 ::: tip

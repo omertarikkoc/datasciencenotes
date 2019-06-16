@@ -1,3 +1,7 @@
+---
+prev: ./linear-regression
+next: ./logistic-regression
+---
 # Logistic Regression
 
 - Linear regression based on continous values

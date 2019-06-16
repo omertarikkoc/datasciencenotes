@@ -1,3 +1,7 @@
+---
+prev: ./python-basics
+next: ./logistic-regression
+---
 # Regression and Correlation
 
 **Model**: Representation of a phenomenon
