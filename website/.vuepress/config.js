@@ -4,6 +4,7 @@ module.exports = {
   serviceWorker: {
     updatePopup: true
   },
+  ga: "UA-81672337-2",
   themeConfig: {
     repo: 'omertarik96/datasciencenotes',
     repoLabel: 'Contribute!',
