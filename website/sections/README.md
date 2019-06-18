@@ -7,3 +7,6 @@ next: ./what-is-data-science
 ### [Python Basics](/sections/python-basics)
 ### [Linear Regression](/sections/linear-regression)
 ### [Logistic Regression](/sections/logistic-regression)
+### [KNN](/sections/knn)
+### [SVM](/sections/svm)
+### [Supervised Learning Feature Selection](/sections/supervised-feature-selection)
