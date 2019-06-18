@@ -30,3 +30,21 @@ They are separate processes from the induction algorithms
 ### Wrapper
 
 They are also separate processes from induction algorithm but they use induction algorithm as a subroutine
+
+## Regularization Techniques
+Penalizing the magnitude of coefficients of features along with minimizing the error between predicted and actual observations, in case of large number of features
+
+::: tip
+Example: assign zero weight for features that are not very important makes a large difference in the target variable
+:::
+
+### Why Use Regularization?
+- To reduce model complexity
+- To avoid overfitting to the particular training data
+- Upgrade the predictability of the model
+- Finding the optimal weights
+
+### Ridge Regression
+
+
+### Lasso Regression
