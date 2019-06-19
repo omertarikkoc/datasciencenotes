@@ -1,6 +1,6 @@
 module.exports = {
   title: "Data Science Notes",
-  description: "Simple notes for Dr. Rizk's Data Science course",
+  description: "Simple notes for learning Data Science from scratch",
   ga: "UA-81672337-2",
   serviceWorker: true,
   themeConfig: {

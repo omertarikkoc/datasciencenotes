@@ -16,11 +16,6 @@ Yes, I will call **Data Science Notes** as **DSN** from now on.
 Please **DON'T** copy and paste from the codes blocks while following the tutorials. Type everything, I know this will take more time but you will also learn. Win, win :sunglasses:
 :::
 
-## Recommended Books
-Following books are suggested by [Dr. Rizk](/contributors/drrizk):
-- Book 1:
-- Book 2:
-
 ## What is next?
 
 Continue checking out [Sections](/sections) to see our magic :tada:
