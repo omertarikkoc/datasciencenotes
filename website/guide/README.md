@@ -19,3 +19,5 @@ Please **DON'T** copy and paste from the codes blocks while following the tutori
 ## What is next?
 
 Continue checking out [Sections](/sections) to see our magic :tada:
+
+[Quiz 3 Guide](/sections/quiz3)

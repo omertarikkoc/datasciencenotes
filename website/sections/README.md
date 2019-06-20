@@ -10,3 +10,6 @@ next: ./what-is-data-science
 ### [KNN](/sections/knn)
 ### [SVM](/sections/svm)
 ### [Supervised Learning Feature Selection](/sections/supervised-feature-selection)
+### [Supervised Vs Unsupervised Learning](/sections/supervised-vs-unsupervised)
+### [K-Means](/sections/kmeans)
+### [DB SCAN](/sections/dbscan)
