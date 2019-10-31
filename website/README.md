@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: /bookcover.png
 actionText: Get Started →
 actionLink: /sections/
 features:
@@ -10,5 +10,5 @@ features:
   details: Enjoy while learning data science with many visuals and interactive experiences.
 - title: Resources Provided
   details: Additional resources provided to developed further understanding of the topic.
-footer: MIT Licensed | Copyright © 2019 - Omer Tarik Koc
+footer: MIT Licensed | Copyright © 2019
 ---
