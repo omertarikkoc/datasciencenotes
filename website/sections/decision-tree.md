@@ -2,6 +2,7 @@
 prev: ./linear-regression
 next: ./logistic-regression
 ---
+# Decision Tree Example 
 
 ```python
 # Original code can be found at: https://scikit-learn.org/stable/modules/tree.html
