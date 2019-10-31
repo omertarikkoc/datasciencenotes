@@ -3,7 +3,7 @@ prev: ./logistic-regression
 next: ./knn
 ---
 # Naive Bayes Example
-```
+```python
 # This example originally published in here: https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html
 
 # Import numpy and Naive Bayes from sklearn
