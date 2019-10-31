@@ -8,6 +8,7 @@ next: ./what-is-data-science
 ### [Linear Regression and Example](/sections/linear-regression)
 ### [Logistic Regression Example](/sections/logistic-regression)
 ### [Naive Bayes Example](/sections/naive-bayes)
+### [Decision Tree Example](/sections/decision-tree)
 ### [KNN and Example](/sections/knn)
 ### [SVM](/sections/svm)
 ### [Cross-Validation Example](/sections/cross-validation)
