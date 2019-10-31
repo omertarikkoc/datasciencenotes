@@ -6,7 +6,7 @@ next: ./what-is-data-science
 ### [What is Data Science?](/sections/what-is-data-science)
 ### [Python Basics](/sections/python-basics)
 ### [Linear Regression and Example](/sections/linear-regression)
-### [Logistic Regression](/sections/logistic-regression)
+### [Logistic Regression Example](/sections/logistic-regression)
 ### [Naive Bayes Example](/sections/naive-bayes)
 ### [KNN and Example](/sections/knn)
 ### [SVM](/sections/svm)
