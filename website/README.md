@@ -2,7 +2,7 @@
 home: true
 heroImage: /hero.png
 actionText: Get Started →
-actionLink: /guide/
+actionLink: /sections/
 features:
 - title: Simplicity First
   details: Minimal and step by step method to explain complex concepts.

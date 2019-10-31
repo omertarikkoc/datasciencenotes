@@ -10,14 +10,10 @@ module.exports = {
     editLinks: true,
     editLinkText: 'Help us improve this note!',
     lastUpdated: 'Last Updated',
-    sidebar: 'auto',
+    sidebar: 'false',
     nav: [{
         text: 'Home',
         link: '/'
-      },
-      {
-        text: 'Guide',
-        link: '/guide/'
       },
       {
         text: 'Sections',
