@@ -14,4 +14,5 @@ next: ./what-is-data-science
 ### [Supervised Learning Feature Selection](/sections/supervised-feature-selection)
 ### [Supervised Vs Unsupervised Learning](/sections/supervised-vs-unsupervised)
 ### [K-Means](/sections/kmeans)
+### [Hierarchical Clustering.md](/sections/hierarchical-clustering.md)
 ### [DB SCAN](/sections/dbscan)
