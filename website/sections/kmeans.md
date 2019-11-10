@@ -35,9 +35,29 @@ K is the number of the clusters that we want to find.
 
 
 ## Python Example
+```python
+from sklearn.cluster import KMeans
+import numpy as np
+
+# Creating the dataset
+X = np.array([[1, 2], [1, 4], [1, 0],
+              [10, 2], [10, 4], [10, 0]])
+
+# Fit the model
+kmeans = KMeans(n_clusters=2, random_state=0).fit(X)
+
+# K-means labels
+print(f"k-means labels: {kmeans.labels_}")
+
+# K-means Prediction
+kmeans.predict([[0, 0], [12, 3]])
+print(f"K-means predict: {kmeans.predict([[0, 0], [12, 3]])}")
+
+# K-means cluster centers
+kmeans.cluster_centers_
+print(f"K-means cluster centers: {kmeans.cluster_centers_}")
 ```
-COMING SOON!
-```
+<iframe height="800px" width="100%" src="https://repl.it/@omertarik96/k-means?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 ## Resources
 **COMING SOON**
